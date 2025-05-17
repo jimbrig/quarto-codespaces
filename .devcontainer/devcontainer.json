@@ -1,6 +1,6 @@
 {
 	"name": "Public - Quarto Codespaces",
-	"image": "ghcr.io/mcanouil/quarto-codespaces:latest",
+	"image": "ghcr.io/mcanouil/quarto-codespaces:universal",
 	"remoteUser": "vscode",
 	"features": {
 		"ghcr.io/rocker-org/devcontainer-features/quarto-cli:1": {
